@@ -39,8 +39,8 @@
     <file path="$PROJECT_DIR$/../prime_factors/test/com/prime_factors/prime_factors.java" changelist="7af2ebbc-3af9-4462-babf-1aa9ef0f0ba2" time="1368886574221" ignored="false" />
     <file path="$PROJECT_DIR$/../prime_factors/test/com/prime_factors/PrimeFactorsTest.java" changelist="7af2ebbc-3af9-4462-babf-1aa9ef0f0ba2" time="1368886760998" ignored="false" />
     <file path="$PROJECT_DIR$/../prime_factors/src/com/prime_factors/PrimeFactors.java" changelist="7af2ebbc-3af9-4462-babf-1aa9ef0f0ba2" time="1368886663647" ignored="false" />
-    <file path="/PrimeFactorsTest.java" changelist="7af2ebbc-3af9-4462-babf-1aa9ef0f0ba2" time="1368894413204" ignored="false" />
-    <file path="/PrimeFactors.java" changelist="7af2ebbc-3af9-4462-babf-1aa9ef0f0ba2" time="1368894162914" ignored="false" />
+    <file path="/PrimeFactorsTest.java" changelist="7af2ebbc-3af9-4462-babf-1aa9ef0f0ba2" time="1368899997246" ignored="false" />
+    <file path="/PrimeFactors.java" changelist="7af2ebbc-3af9-4462-babf-1aa9ef0f0ba2" time="1368900254802" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,26 +101,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="PrimeFactors.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="PrimeFactors.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/example/generateprimes/PrimeFactors.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="31" selection-start="186" selection-end="186" vertical-scroll-proportion="0.0">
+            <state line="9" column="52" selection-start="183" selection-end="183" vertical-scroll-proportion="0.26666668">
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#245#254#0" expanded="true" />
+                <element signature="e#450#459#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PrimeFactorsTest.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="PrimeFactorsTest.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/com.example.generateprimes/PrimeFactorsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="28" selection-start="932" selection-end="932" vertical-scroll-proportion="0.43703705">
+            <state line="22" column="0" selection-start="466" selection-end="466" vertical-scroll-proportion="0.0">
               <folding>
-                <element signature="e#630#639#0" expanded="true" />
-                <element signature="e#891#900#0" expanded="true" />
-                <element signature="e#1153#1162#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#585#594#0" expanded="true" />
+                <element signature="e#847#856#0" expanded="true" />
+                <element signature="e#1141#1150#0" expanded="true" />
+                <element signature="e#1404#1413#0" expanded="true" />
+                <element signature="e#1727#1736#0" expanded="true" />
+                <element signature="e#2020#2029#0" expanded="true" />
+                <element signature="e#2313#2322#0" expanded="true" />
+                <element signature="e#2605#2614#0" expanded="true" />
+                <element signature="e#3009#3018#0" expanded="true" />
+                <element signature="e#3336#3345#0" expanded="true" />
+                <element signature="e#3686#3695#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -546,9 +555,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="4" selection-start="4" selection-end="4" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="e#630#639#0" expanded="true" />
-            <element signature="e#891#900#0" expanded="true" />
-            <element signature="e#1153#1162#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#585#594#0" expanded="true" />
+            <element signature="e#847#856#0" expanded="true" />
+            <element signature="e#1141#1150#0" expanded="true" />
+            <element signature="e#1404#1413#0" expanded="true" />
+            <element signature="e#1727#1736#0" expanded="true" />
+            <element signature="e#2020#2029#0" expanded="true" />
+            <element signature="e#2313#2322#0" expanded="true" />
+            <element signature="e#2605#2614#0" expanded="true" />
+            <element signature="e#3009#3018#0" expanded="true" />
+            <element signature="e#3336#3345#0" expanded="true" />
+            <element signature="e#3686#3695#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -564,9 +582,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="51" column="7" selection-start="898" selection-end="1396" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="e#630#639#0" expanded="true" />
-            <element signature="e#891#900#0" expanded="true" />
-            <element signature="e#1153#1162#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#585#594#0" expanded="true" />
+            <element signature="e#847#856#0" expanded="true" />
+            <element signature="e#1141#1150#0" expanded="true" />
+            <element signature="e#1404#1413#0" expanded="true" />
+            <element signature="e#1727#1736#0" expanded="true" />
+            <element signature="e#2020#2029#0" expanded="true" />
+            <element signature="e#2313#2322#0" expanded="true" />
+            <element signature="e#2605#2614#0" expanded="true" />
+            <element signature="e#3009#3018#0" expanded="true" />
+            <element signature="e#3336#3345#0" expanded="true" />
+            <element signature="e#3686#3695#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -580,9 +607,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="26" selection-start="232" selection-end="259" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="e#630#639#0" expanded="true" />
-            <element signature="e#891#900#0" expanded="true" />
-            <element signature="e#1153#1162#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#585#594#0" expanded="true" />
+            <element signature="e#847#856#0" expanded="true" />
+            <element signature="e#1141#1150#0" expanded="true" />
+            <element signature="e#1404#1413#0" expanded="true" />
+            <element signature="e#1727#1736#0" expanded="true" />
+            <element signature="e#2020#2029#0" expanded="true" />
+            <element signature="e#2313#2322#0" expanded="true" />
+            <element signature="e#2605#2614#0" expanded="true" />
+            <element signature="e#3009#3018#0" expanded="true" />
+            <element signature="e#3336#3345#0" expanded="true" />
+            <element signature="e#3686#3695#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -604,23 +640,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/generateprimes/PrimeFactors.java">
+    <entry file="file://$PROJECT_DIR$/test/com.example.generateprimes/PrimeFactorsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="31" selection-start="186" selection-end="186" vertical-scroll-proportion="0.0">
+        <state line="22" column="0" selection-start="466" selection-end="466" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#245#254#0" expanded="true" />
+            <element signature="e#585#594#0" expanded="true" />
+            <element signature="e#847#856#0" expanded="true" />
+            <element signature="e#1141#1150#0" expanded="true" />
+            <element signature="e#1404#1413#0" expanded="true" />
+            <element signature="e#1727#1736#0" expanded="true" />
+            <element signature="e#2020#2029#0" expanded="true" />
+            <element signature="e#2313#2322#0" expanded="true" />
+            <element signature="e#2605#2614#0" expanded="true" />
+            <element signature="e#3009#3018#0" expanded="true" />
+            <element signature="e#3336#3345#0" expanded="true" />
+            <element signature="e#3686#3695#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/com.example.generateprimes/PrimeFactorsTest.java">
+    <entry file="file://$PROJECT_DIR$/src/com/example/generateprimes/PrimeFactors.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="28" selection-start="932" selection-end="932" vertical-scroll-proportion="0.43703705">
+        <state line="9" column="52" selection-start="183" selection-end="183" vertical-scroll-proportion="0.26666668">
           <folding>
-            <element signature="e#630#639#0" expanded="true" />
-            <element signature="e#891#900#0" expanded="true" />
-            <element signature="e#1153#1162#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#450#459#0" expanded="true" />
           </folding>
         </state>
       </provider>
