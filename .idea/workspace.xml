@@ -12,7 +12,7 @@
     <file path="/factor.java" changelist="7af2ebbc-3af9-4462-babf-1aa9ef0f0ba2" time="1368711574366" ignored="false" />
     <file path="/PrimeGeneratorTest.java" changelist="7af2ebbc-3af9-4462-babf-1aa9ef0f0ba2" time="1368892796732" ignored="false" />
     <file path="/PrimeGenerator.java" changelist="7af2ebbc-3af9-4462-babf-1aa9ef0f0ba2" time="1368713154147" ignored="false" />
-    <file path="/Main.java" changelist="7af2ebbc-3af9-4462-babf-1aa9ef0f0ba2" time="1368734835184" ignored="false" />
+    <file path="/Main.java" changelist="7af2ebbc-3af9-4462-babf-1aa9ef0f0ba2" time="1368900923226" ignored="false" />
     <file path="/Dummy.txt" changelist="7af2ebbc-3af9-4462-babf-1aa9ef0f0ba2" time="1368733299993" ignored="false" />
     <file path="$PROJECT_DIR$/../kata_bowling_java/.idea/workspace.xml" changelist="7af2ebbc-3af9-4462-babf-1aa9ef0f0ba2" time="1368764405913" ignored="false" />
     <file path="$PROJECT_DIR$/../kata_bowling_java/.idea/vcs.xml" changelist="7af2ebbc-3af9-4462-babf-1aa9ef0f0ba2" time="1368733299994" ignored="false" />
@@ -39,8 +39,11 @@
     <file path="$PROJECT_DIR$/../prime_factors/test/com/prime_factors/prime_factors.java" changelist="7af2ebbc-3af9-4462-babf-1aa9ef0f0ba2" time="1368886574221" ignored="false" />
     <file path="$PROJECT_DIR$/../prime_factors/test/com/prime_factors/PrimeFactorsTest.java" changelist="7af2ebbc-3af9-4462-babf-1aa9ef0f0ba2" time="1368886760998" ignored="false" />
     <file path="$PROJECT_DIR$/../prime_factors/src/com/prime_factors/PrimeFactors.java" changelist="7af2ebbc-3af9-4462-babf-1aa9ef0f0ba2" time="1368886663647" ignored="false" />
-    <file path="/PrimeFactorsTest.java" changelist="7af2ebbc-3af9-4462-babf-1aa9ef0f0ba2" time="1368899997246" ignored="false" />
-    <file path="/PrimeFactors.java" changelist="7af2ebbc-3af9-4462-babf-1aa9ef0f0ba2" time="1368900254802" ignored="false" />
+    <file path="/PrimeFactorsTest.java" changelist="7af2ebbc-3af9-4462-babf-1aa9ef0f0ba2" time="1368904493628" ignored="false" />
+    <file path="/PrimeFactors.java" changelist="7af2ebbc-3af9-4462-babf-1aa9ef0f0ba2" time="1368904098598" ignored="false" />
+    <file path="$PROJECT_DIR$/../pfk1/test/com/primefactors/PrimeFactorsTest.java" changelist="7af2ebbc-3af9-4462-babf-1aa9ef0f0ba2" time="1368904505601" ignored="false" />
+    <file path="$PROJECT_DIR$/../pfk1/src/com/primefactors/PrimeFactors.java" changelist="7af2ebbc-3af9-4462-babf-1aa9ef0f0ba2" time="1368904311396" ignored="false" />
+    <file path="$PROJECT_DIR$/../pfk1/src/com/primefactors/Main.java" changelist="7af2ebbc-3af9-4462-babf-1aa9ef0f0ba2" time="1368900928130" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,10 +107,10 @@
       <file leaf-file-name="PrimeFactors.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/example/generateprimes/PrimeFactors.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="52" selection-start="183" selection-end="183" vertical-scroll-proportion="0.26666668">
+            <state line="9" column="9" selection-start="168" selection-end="168" vertical-scroll-proportion="0.26666668">
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#450#459#0" expanded="true" />
+                <element signature="e#446#455#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -116,7 +119,7 @@
       <file leaf-file-name="PrimeFactorsTest.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/com.example.generateprimes/PrimeFactorsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="0" selection-start="466" selection-end="466" vertical-scroll-proportion="0.0">
+            <state line="31" column="0" selection-start="727" selection-end="727" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#585#594#0" expanded="true" />
@@ -158,8 +161,8 @@
         <option value="$PROJECT_DIR$/test/com.example.generateprimes/PrimeGeneratorTest.java" />
         <option value="$PROJECT_DIR$/src/com/example/generateprimes/PrimeGenerator.java" />
         <option value="$PROJECT_DIR$/src/com/example/generateprimes/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/example/generateprimes/PrimeFactors.java" />
         <option value="$PROJECT_DIR$/test/com.example.generateprimes/PrimeFactorsTest.java" />
+        <option value="$PROJECT_DIR$/src/com/example/generateprimes/PrimeFactors.java" />
       </list>
     </option>
   </component>
@@ -642,7 +645,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/com.example.generateprimes/PrimeFactorsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="0" selection-start="466" selection-end="466" vertical-scroll-proportion="0.0">
+        <state line="31" column="0" selection-start="727" selection-end="727" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#585#594#0" expanded="true" />
@@ -662,10 +665,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/generateprimes/PrimeFactors.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="52" selection-start="183" selection-end="183" vertical-scroll-proportion="0.26666668">
+        <state line="9" column="9" selection-start="168" selection-end="168" vertical-scroll-proportion="0.26666668">
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#450#459#0" expanded="true" />
+            <element signature="e#446#455#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -14,9 +14,8 @@ public class PrimeFactors {
                 itsFactors.add(divisor);
                 number /= divisor;
             }
-            divisor += 1;
+            divisor++;
         }
-
     }
 
     public List<Integer> itsFactors = new ArrayList<Integer>();
